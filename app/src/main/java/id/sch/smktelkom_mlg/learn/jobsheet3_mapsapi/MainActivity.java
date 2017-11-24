@@ -13,7 +13,6 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.maps.model.PolylineOptions;
 
-
 public class MainActivity extends AppCompatActivity implements OnMapReadyCallback {
 
     static final CameraPosition INDONESIA = CameraPosition.builder()
